@@ -1,18 +1,15 @@
 <img align ="center" alt="HelloEveryone"  width="100%" src="header image.jpg">
 
 
+I’m a **Master’s student at IIT (BHU)**, a passionate **Machine Learning Engineer**, and a **Developer** from India. I thrive on building innovative ML solutions and enjoy contributing to **open-source projects** in my free time. Let's connect, collaborate, and innovate together! 💻✨
+
+
  <br>
-
-
-#### Languages I use
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoWidth=20)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoWidth=20)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoWidth=20)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoWidth=20)
-
-#### Some of the Technologies and Libraries I have worked with
-
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoWidth=20)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=for-the-badge&logo=microsoft-powerpoint&logoWidth=20)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=for-the-badge&logo=jupyter&logoWidth=20)
@@ -24,9 +21,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python&logoWidth=20)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=for-the-badge&logo=python&logoWidth=20)
 
-
 </br>
-
   <p align=center>
     <img 
       style="height:80%;width:49%;max-width: 10%"
