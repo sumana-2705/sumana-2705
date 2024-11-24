@@ -3,23 +3,23 @@
 
 #### Languages I use
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoWidth=60)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoWidth=60)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoWidth=60)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoWidth=60)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoWidth=20)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoWidth=20)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoWidth=20)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoWidth=20)
 
 #### Some of the Technologies and Libraries I have worked with
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoWidth=60)
-![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=for-the-badge&logo=microsoft-powerpoint&logoWidth=60)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=for-the-badge&logo=jupyter&logoWidth=60)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoWidth=60)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoWidth=60)
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas&logoWidth=60)
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=numpy&logoWidth=60)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoWidth=60)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python&logoWidth=60)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=for-the-badge&logo=python&logoWidth=60)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoWidth=20)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=for-the-badge&logo=microsoft-powerpoint&logoWidth=20)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=for-the-badge&logo=jupyter&logoWidth=20)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoWidth=20)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoWidth=20)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas&logoWidth=20)
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=numpy&logoWidth=20)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoWidth=20)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python&logoWidth=20)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=for-the-badge&logo=python&logoWidth=20)
 
 
 </br>
