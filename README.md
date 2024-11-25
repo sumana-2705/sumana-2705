@@ -1,10 +1,10 @@
 <img align ="center" alt="HelloEveryone"  width="100%" src="header image.jpg">
 </br>
 
-I’m a **Master’s student at IIT (BHU)**, a passionate **Machine Learning Engineer**, and a **Developer** from India. I thrive on building innovative ML solutions and enjoy contributing to **open-source projects** in my free time. Let's connect, collaborate, and innovate together! 💻✨
+I’m a **Master’s student at IIT (BHU)**, a passionate **Machine Learning Engineer**, and a **Developer** from India. I thrive on building innovative ML solutions and enjoy contributing to **open-source projects** in my free time. 💻✨
+</br>
 
-
- <br>
+### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoWidth=20)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoWidth=20)
