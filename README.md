@@ -1,7 +1,7 @@
 <img align ="center" alt="HelloEveryone"  width="100%" src="header image.jpg">
 </br>
 
-I’m a **Master’s student at IIT (BHU)**, a passionate **Machine Learning Engineer**, and a **Developer** from India. I thrive on building innovative ML solutions and enjoy contributing to **open-source projects** in my free time. 💻✨
+I am a **Master’s student at IIT (BHU)**, a passionate **Machine Learning Engineer**, and a **Developer** from India. I thrive on building innovative ML solutions and enjoy contributing to **open-source projects** in my free time. 💻✨
 </br>
 
 <h3 align="left">Connect with me:</h3>
