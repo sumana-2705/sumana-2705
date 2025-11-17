@@ -14,14 +14,6 @@ I am a **Master’s student at IIT (BHU)**, a passionate **Machine Learning Engi
 </p>
 
 </br>
-  <p align=center>
-    <img 
-      style="height:80%;width:49%;max-width: 10%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=sumana-2705&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
-      alt="sumana-2705" />
-  </p>
-
-</br>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=sumana-2705&theme=dark&show_icons=true&include_all_commits=true" />
